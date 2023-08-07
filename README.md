@@ -15,15 +15,24 @@ The dataset used in this project consists of historical order information export
 To run this project, you need Python 3 and the following dependencies:
 
 - pandas
-- scikit-learn
-- plotly
-- Dash
 - numpy
+- plotly
+- dash
+- category_encoders
+- mlxtend
+- imblearn
+- scikit-learn
+- xgboost
+- requests
+- flask
+- pickles
 
-You can install the required dependencies using the following command:
+## Notes
+The `requirements.txt` file should list all Python libraries that your notebooks
+depend on, and they will be installed using:
 
-```bash
-pip install pandas scikit-learn plotly Dash numpy
+```
+pip install -r requirements.txt
 ```
 
 ## Model
