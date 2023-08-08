@@ -1,0 +1,11 @@
+paid at,accepts marketing,billing province,shipping province,payment method,source,created month,created day,shipping,total,lineitem quantity
+0,no,ALX,ALX,Cash on Delivery (COD),web,2,5,60,267.85,10
+1,no,out of egypt,out of egypt,others,shopify_draft_order,7,2,3000,5511.5,15
+0,yes,C,C,Cash on Delivery (COD),web,8,7,50,1542,20
+0,no,IS,IS,others,shopify_draft_order,9,11,35,150,2
+1,yes,C,C,Cash on Delivery (COD),web,4,4,50,500,4
+1,no,C,C,Cash on Delivery (COD),web,1,28,32,314,5
+0,no,BH,BH,Cash on Delivery (COD),shopify_draft_order,2,5,40,713.6,12
+0,no,out of egypt,out of egypt,others,shopify_draft_order,8,30,1590,3500,15
+1,no,C,C,Cash on Delivery (COD),web,2,4,32,173.5,3
+1,no,KB,KB,Cash on Delivery (COD),web,7,3,32,463.5,8
